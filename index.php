@@ -40,7 +40,7 @@
 			<div class="wrap-login100">
 				<form class="login100-form validate-form" method="POST" action="server.php">
 					<div align="center">
-						CSRF Protection Via Double Submitted Cookies
+						CSRF Protection Via Synchronize Tokens
 					</div>
 					<br></br>
 					<div class="wrap-input100 validate-input">
