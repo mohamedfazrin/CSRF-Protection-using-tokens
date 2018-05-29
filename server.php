@@ -42,7 +42,7 @@
     		else
     		{
         		echo "<script> alert('Error: failed to Login') </script>";
-        		echo "Login Failed ! "."<br/>"."Authorization Failed!! Please reset!";
+        		echo "<script type=\"text/javascript\"> window.location.href = 'index.php'; </script>";
         
     		}
 	}
